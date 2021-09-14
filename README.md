@@ -1,2 +1,2 @@
-# Class10-Comp_project.
+# index.html
 Just a simple school project
